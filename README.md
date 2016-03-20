@@ -1,5 +1,4 @@
 # Rails-auth2
----
 
 Simple boilerplate to start a Rails project with `devise` for authentication and `jwt` and `cors` for api authentication.
 
@@ -7,7 +6,7 @@ Simple boilerplate to start a Rails project with `devise` for authentication and
 Run the following steps in order to get started.
 
 First, install the gems localy with:
-```
+```sh
 bundle install --path vendor/bundle
 ```
 
